@@ -1,5 +1,5 @@
 ## Hi there, I am Owura 👋
-<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/Home%20(1).png">
+<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/Home.jpg">
 I am a dedicated Data Analyst with a strong foundation in data analytics and machine learning, currently working on a range of data science projects. My journey in the field of data analytics has equipped me with skills in statistical analysis, data visualization, and predictive modeling. I am passionate about leveraging data to drive insights and inform strategic decisions.
 
 My long-term goal is to specialize in autonomous systems and intelligent robotics with focus on optimizing control mechanisms in intelligent systems. My interdisciplinary approach involves integrating machine learning, deep learning and AI to build and optimize intelligent systems.
