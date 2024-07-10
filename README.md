@@ -49,8 +49,8 @@
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <a href="https://github.com/Trends-and-Forecast" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/forecast.jpg" width="350" alt="Image 3" style="margin-right: 50px;">
+      <a href="https://github.com/Machine-Learning-Modelz" target="_blank">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/ml.jpg" width="350" alt="Image 3" style="margin-right: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
