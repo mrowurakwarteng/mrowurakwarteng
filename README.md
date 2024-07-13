@@ -1,4 +1,4 @@
-<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/profile.JPG">
+<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/bio.jpeg">
 <div align="center">
 <h1>My Projects</h1>
 </div>
@@ -7,7 +7,7 @@
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/Exploratory-Data-Analyses" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/eda.jpg" width="350" alt="Image 1" style="margin-right: 20px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/eda-new.jpg" width="350" alt="Image 1" style="margin-right: 20px;">
       </a>
     </td>
     <td style="text-align: center;">
