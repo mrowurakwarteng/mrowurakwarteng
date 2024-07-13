@@ -1,29 +1,3 @@
-# My GitHub Project
-<!-- HTML for the two-column layout -->
-<table>
-  <tr>
-    <td style="width: 65%; vertical-align: top; padding-right: 10px;">
-      <div align="center">
-        <h1 style="margin-bottom: 5px;">Owusu Amaning Kwarteng</h1>
-        <p style="font-size: 8px; margin-top: 0; margin-bottom: 10px;">Data Analytics | Machine Learning</p>
-      </div><br>
-      <p>Passionate developer with expertise in full-stack development. Experienced in creating scalable web applications and working with modern technologies. Enthusiastic about                   learning new skills and contributing to open-source projects.</p>
-      <p><strong>Skills:</strong> JavaScript, Python, React, Node.js, MongoDB, SQL</p>
-      <p><strong>Projects:</strong></p>
-      <ul>
-        <li><strong>Project A:</strong> A web application for managing tasks.</li>
-        <li><strong>Project B:</strong> An API for a book catalog.</li>
-        <li><strong>Project C:</strong> A real-time chat application.</li>
-      </ul>
-    </td>
-    <td style="width: 35%; vertical-align: top;">
-      <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/eda.jpg" style="width: 100%; border-radius: 10px;">
-    </td>
-  </tr>
-</table>
-
-
-
 <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/profile.JPG">
 <div align="center">
 <h1>My Projects</h1>
