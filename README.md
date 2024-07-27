@@ -37,7 +37,7 @@
       </a>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
-      <a href="https://github.com/Machine-Learning-Modelz" target="_blank">
+      <a href="https://github.com/machine-learning-modelss" target="_blank">
         <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/ml.jpg" width="350" alt="Image 3" style="margin-right: 50px;">
       </a>
     </td>
