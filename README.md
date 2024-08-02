@@ -3,6 +3,7 @@
 <h1>My Projects</h1>
 </div>
 
+<!--  first row  -->
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
@@ -23,11 +24,11 @@
   </tr>
 </table>
 
-
+<!--  second row  -->
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center;">
-      <a href="https://github.com/Database-Design-and-Queries" target="_blank">
+      <a href="https://github.com/DB-Queries" target="_blank">
         <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/database.png" width="350" alt="Image 3" style="margin-right: 50px;">
       </a>
     </td>
