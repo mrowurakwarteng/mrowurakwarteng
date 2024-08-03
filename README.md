@@ -8,17 +8,17 @@
   <tr>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/Exploratory-Data-Analyses" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/eda-new.jpg" width="350" alt="Image 1" style="margin-right: 20px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/eda.jpg" width="350" alt="Image 1" style="margin-right: 20px;">
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/Dashboards-and-Visualizations" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/visualization.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/visualization.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/Data-Segmentation" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/segmentation.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/segmentation.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
       </a>
     </td>    
   </tr>
@@ -29,17 +29,17 @@
   <tr>
     <td style="text-align: center;">
       <a href="https://github.com/DB-Queries" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/database.png" width="350" alt="Image 3" style="margin-right: 50px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/database.png" width="350" alt="Image 3" style="margin-right: 50px;">
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://github.com/Web-Scrapping" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/web-scraping.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/web-scraping.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
       </a>
     </td>
     <td style="text-align: center; padding: 10px; border: none;">
       <a href="https://github.com/machine-learning-modelss" target="_blank">
-        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/ml.jpg" width="350" alt="Image 3" style="margin-right: 50px;">
+        <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/ml.jpg" width="350" alt="Image 3" style="margin-right: 50px;">
       </a>
     </td>
     
