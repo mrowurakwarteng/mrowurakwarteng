@@ -12,7 +12,7 @@
       </a>
     </td>
     <td style="text-align: center;">
-      <a href="https://github.com/Dashboards-and-Visualizations" target="_blank">
+      <a href="https://github.com/Visualisations" target="_blank">
         <img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/visualization.jpg" width="350" alt="Image 2" style="margin-right: 50px;">
       </a>
     </td>
