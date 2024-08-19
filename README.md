@@ -1,4 +1,4 @@
-<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/bio.jpeg">
+<img src="https://github.com/mrowurakwarteng/mrowurakwarteng/blob/main/images/bio.jpeg"> 
 <div align="center">
 <h1>My Projects</h1>
 </div>
